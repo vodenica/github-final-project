@@ -10,6 +10,11 @@ https://github.com/vodenica/github-final-project/tree/main
 https://github.com/vodenica/github-final-project/blob/main/LICENSE
 ```
 
+### README file URL
+```
+https://github.com/vodenica/github-final-project/blob/main/README.md
+```
+
 ### CODE_OF_CONDUCT.md URL
 ```
 https://github.com/vodenica/github-final-project/blob/main/CODE_OF_CONDUCT.md
