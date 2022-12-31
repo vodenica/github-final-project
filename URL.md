@@ -43,3 +43,8 @@ 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
 ```
 https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/7980
 ```
+
+### PR "pull-request" reverted URL
+```
+https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/7981
+```
