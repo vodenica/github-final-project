@@ -29,3 +29,7 @@ https://github.com/vodenica/github-final-project/blob/main/CONTRIBUTING.md
 ```
 https://github.com/vodenica/github-final-project/blob/main/simple-interest.sh
 ```
+### Forked repository URL
+```
+https://github.com/vodenica/jbbmo-Introduction-to-Git-and-GitHub
+```
