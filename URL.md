@@ -34,9 +34,9 @@ https://github.com/vodenica/github-final-project/blob/main/simple-interest.sh
 https://github.com/vodenica/jbbmo-Introduction-to-Git-and-GitHub
 ```
 
-### Newly generated Token2
+### Newly generated Token
 ```
-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
+ghp_xxxxxxxxxxxxxxxxxxx
 ```
 
 ### PR "pull-request" URL
