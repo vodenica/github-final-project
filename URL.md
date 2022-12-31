@@ -1,6 +1,6 @@
 # URLs
 
-### URL
+### URL of the repository
 ```
 https://github.com/vodenica/github-final-project/tree/main
 ```
